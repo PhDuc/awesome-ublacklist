@@ -7,14 +7,14 @@ These lists are split into **AI**, **non-AI**, and **category-specific** sets to
 
 ## 📌 Lists Overview
 
-- **awesome-full-ublacklist**  
+- `awesome-full-ublacklist`  
   Includes **everything** (AI + non-AI categories).  
   👉 *Do not combine with any other list.*
 
-- **awesome-ai-ublacklist**  
+- `awesome-ai-ublacklist`  
   Only AI-generated spam / AI-churned content.
 
-- **awesome-nonai-ublacklist**  
+- `awesome-nonai-ublacklist`  
   All non-AI sites (shopping, gaming, social, etc.) combined.  
   👉 *Do not install with category-specific lists.*
 
